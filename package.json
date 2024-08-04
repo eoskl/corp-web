@@ -22,7 +22,7 @@
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@nuxtjs/web-vitals": "^0.2.7",
     "nuxt": "^3.12.3",
-    "nuxt-gtag": "^2.0.6",
+    "nuxt-gtag": "^2.0.7",
     "nuxt-security": "^2.0.0-rc.9",
     "vue": "latest",
     "vue-gtag": "^2.0.1",
